@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Computer;Acme;;;
+FN:Acme Computer
+item1.TEL:+91 80 4203 2722
+item1.X-ABLabel:Mobile
+END:VCARD

@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Com;F. C. A CA. Girish Hoysala;M.;;
+FN:F. C. A CA . Girish Hoysala M. Com.
+ORG:B.N.Subramanya & Co.,
+TITLE:Partner Chartered Accountants
+TEL;type=Work:+91 23448047
+item1.TEL:+91 80 2334 6489
+item1.X-ABLabel:Work Fax
+TEL;type=Work:+91 80 2331 2260
+item2.TEL;waid=919880849071:+91 98808 49071
+item2.X-ABLabel:Mobile
+EMAIL;TYPE=Work:girishh@bns.co.in
+EMAIL;TYPE=Home:contact@bns.co.in
+EMAIL;TYPE=Work:girishh@bns.co.in
+EMAIL;TYPE=Home:contact@bns.co.in
+item3.ADR;type=Work:;;No.101, R.V. 15, E ' Block 6th Main, MalleswaraLn, Bangalore   560003  ;;;;
+item3.X-ABADR:ac
+item4.ADR;type=Work:;;No.101, R.V. 15, E ' Block 6th Main, MalleswaraLn, Bangalore   560003  ;;;;
+item4.X-ABADR:ac
+END:VCARD

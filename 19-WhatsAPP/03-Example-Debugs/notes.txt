@@ -1,0 +1,6 @@
+Links    
+    https://www.youtube.com/watch?v=QmTtU-qbjUA
+    git@github.com:InsightEdge01/MutipleCSVChatllama3Pandasai.git
+
+How to run application
+    streamlit run app.py

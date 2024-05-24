@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Diagnost;Anand;;;
+FN:Anand Diagnost
+item1.TEL;waid=919440866287:+91 94408 66287
+item1.X-ABLabel:Other
+TEL;type=Work;waid=917022000074:+91 70220 00074
+TEL;type=Mobile:+91 80 2559 1925
+END:VCARD

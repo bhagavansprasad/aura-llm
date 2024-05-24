@@ -1,0 +1,3 @@
+# Read pdf
+https://github.com/amithkoujalgi/ollama-pdf-bot
+    git@github.com:amithkoujalgi/ollama-pdf-bot.git
